@@ -5,7 +5,9 @@ The course is provided by Wes Bos on https://javascript30.com/.
 https://htmlpreview.github.io This is web help you review .html files withoud download it.
 
 1. number-guessing-game-start.html is a number guessing game based on Javascript and HTML.
+
 2. Pig Game, a classic dice game, implemented by JavaScript.
+
   GAME RULES:
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
