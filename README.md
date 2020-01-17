@@ -1,7 +1,7 @@
 # JavaScript30days
 This repository is used to record my JavaScript projects.
 
-1. [Guessing Number](https://rongyangariel.github.io/JavaScript_Projects/Pig%20Game/index.html) is a number guessing game based on Javascript and HTML.
+1. [Guessing Number](https://rongyangariel.github.io/JavaScript_Projects/number-guessing-game-start.html) is a number guessing game based on Javascript and HTML.
 
 2. [Pig Game](https://rongyangariel.github.io/JavaScript_Projects/Pig%20Game/index.html), a classic dice game, implemented by JavaScript.
   GAME RULES:
