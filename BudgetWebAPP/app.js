@@ -272,7 +272,7 @@ var UIController = (function() {
             month = now.getMonth();
             
             months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-            document.querySelector(DOMstrings.dateLabel).textContent = months[mon] + ' ' + year;
+            document.querySelector(DOMstrings.dateLabel).textContent = months[month] + ' ' + year;
         },
 
 
