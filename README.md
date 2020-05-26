@@ -1,4 +1,4 @@
-# JavaScript30days
+# JavaScript Projects
 This repository is used to record my JavaScript projects.
 
 1. [Guessing Number](https://rongyangariel.github.io/JavaScript_Projects/number-guessing-game-start.html) is a number guessing game based on Javascript and HTML.
